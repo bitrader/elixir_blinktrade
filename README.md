@@ -9,7 +9,7 @@ Currently we implemented only the ticker feature
 iex> BlinkTrade.ticker(:brl)
 ```
 
-There are these parameter options: `:vef`, :vnd`, `:brl`, `:pkr`, `clp`, each one represents a currency:
+There are these parameter options: `:vef`, `:vnd`, `:brl`, `:pkr`, `clp`, each one represents a currency:
 
 | Code | Currency |
 |------|----------|
